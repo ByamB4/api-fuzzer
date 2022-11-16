@@ -1,0 +1,10 @@
+{
+  "BASE_URL": "REDACTED",
+  "APIs": [
+    {
+      "endpoint": "/api/integration/auth/login",
+      "methods": ["POST"],
+      "params": ["password", "phone", "deviceId"]
+    }
+  ]
+}
